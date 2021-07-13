@@ -21,6 +21,12 @@ Mentees:
 ## About the Project
 
 Video Link : https://youtu.be/oCQK4X5Jd80
+Images:
+https://i.imgur.com/mhIMyCw.png
+https://i.imgur.com/UYlFbHX.png
+https://i.imgur.com/ysRp8aw.png
+https://i.imgur.com/vvDa3oL.jpg
+
 
 We have seen numerous friends and families fall prey to the vicious coronavirus. With the ever mutating virus, there is a need for faster detection of virus, so that swift assistance and medication can be given to the patients.
 
