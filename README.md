@@ -17,10 +17,10 @@ Mentor:
 Mentees:
 - B Zahid Hussain
 - Ifrah Andleeb
-- 
+
 ## About the Project
 
-Video Link : 
+Video Link : https://youtu.be/oCQK4X5Jd80
 
 We have seen numerous friends and families fall prey to the vicious coronavirus. With the ever mutating virus, there is a need for faster detection of virus, so that swift assistance and medication can be given to the patients.
 
